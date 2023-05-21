@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="cat-player.png">
+<SubTexture name="cat-player idle0000" x="802" y="490" width="200" height="244" frameX="0" frameY="0" frameWidth="200" frameHeight="244" />
+<SubTexture name="cat-player idle0001" x="1002" y="0" width="199" height="244" frameX="0" frameY="0" frameWidth="199" frameHeight="244" />
+<SubTexture name="cat-player idle0002" x="802" y="0" width="200" height="245" frameX="0" frameY="0" frameWidth="200" frameHeight="245" />
+<SubTexture name="cat-player idle0003" x="802" y="245" width="199" height="245" frameX="0" frameY="0" frameWidth="199" frameHeight="245" />
+<SubTexture name="cat-player singdown0000" x="607" y="761" width="205" height="220" frameX="0" frameY="0" frameWidth="205" frameHeight="220" />
+<SubTexture name="cat-player singdown0001" x="403" y="761" width="204" height="224" frameX="0" frameY="0" frameWidth="204" frameHeight="224" />
+<SubTexture name="cat-player singdown0002" x="201" y="761" width="202" height="230" frameX="0" frameY="0" frameWidth="202" frameHeight="230" />
+<SubTexture name="cat-player singleft0000" x="602" y="0" width="200" height="249" frameX="0" frameY="0" frameWidth="200" frameHeight="249" />
+<SubTexture name="cat-player singleft0001" x="602" y="249" width="200" height="249" frameX="0" frameY="0" frameWidth="200" frameHeight="249" />
+<SubTexture name="cat-player singleft0002" x="0" y="512" width="200" height="249" frameX="0" frameY="0" frameWidth="200" frameHeight="249" />
+<SubTexture name="cat-player singright0000" x="401" y="259" width="200" height="251" frameX="0" frameY="0" frameWidth="200" frameHeight="251" />
+<SubTexture name="cat-player singright0001" x="201" y="259" width="200" height="252" frameX="0" frameY="0" frameWidth="200" frameHeight="252" />
+<SubTexture name="cat-player singright0002" x="402" y="0" width="200" height="253" frameX="0" frameY="0" frameWidth="200" frameHeight="253" />
+<SubTexture name="cat-player singup0000" x="600" y="512" width="200" height="246" frameX="0" frameY="0" frameWidth="200" frameHeight="246" />
+<SubTexture name="cat-player singup0001" x="201" y="0" width="201" height="254" frameX="0" frameY="0" frameWidth="201" frameHeight="254" />
+<SubTexture name="cat-player singup0002" x="0" y="0" width="201" height="259" frameX="0" frameY="0" frameWidth="201" frameHeight="259" />
+<SubTexture name="cat-player singrightmiss0000" x="0" y="259" width="201" height="253" frameX="0" frameY="0" frameWidth="201" frameHeight="253" />
+<SubTexture name="cat-player singleftmiss0000" x="200" y="512" width="200" height="249" frameX="0" frameY="0" frameWidth="200" frameHeight="249" />
+<SubTexture name="cat-player singdownmiss0000" x="0" y="761" width="201" height="235" frameX="0" frameY="0" frameWidth="201" frameHeight="235" />
+<SubTexture name="cat-player singupmiss0000" x="400" y="512" width="200" height="247" frameX="0" frameY="0" frameWidth="200" frameHeight="247" />
+</TextureAtlas>
